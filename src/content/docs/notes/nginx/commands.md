@@ -33,5 +33,4 @@ sudo nginx -V
 sudo lsof -i:80
 # 查看 Nginx 进程
 ps aux | grep nginx
-
 ```
